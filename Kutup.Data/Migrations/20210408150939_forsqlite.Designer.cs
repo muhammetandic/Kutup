@@ -2,14 +2,16 @@
 using Kutup.Data.Contexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Kutup.Data.Migrations
 {
     [DbContext(typeof(KutupDbContext))]
-    partial class KutupDbContextModelSnapshot : ModelSnapshot
+    [Migration("20210408150939_forsqlite")]
+    partial class forsqlite
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

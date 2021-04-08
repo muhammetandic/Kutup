@@ -6,6 +6,7 @@ using Kutup.Services.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
+using System;
 
 namespace Kutup.WebApi.Extensions
 {
@@ -14,9 +15,10 @@ namespace Kutup.WebApi.Extensions
         public static void ConfigureEntityFramework(this IServiceCollection services, string connectionString)
         {
             services.AddDbContext<KutupDbContext>(
-                opt => opt.UseSqlServer(connectionString)
-                .EnableSensitiveDataLogging()
-                .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking));
+                //opt => opt.UseSqlServer(connectionString)
+                //.EnableSensitiveDataLogging()
+                //.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking));
+                opt => opt.UseSqlite(@$"Data Source={Environment.CurrentDirectory}\Sample.db"));
         }
 
         public static void ConfigureKutupServices(this IServiceCollection services)
