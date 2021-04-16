@@ -1,8 +1,10 @@
-﻿using Kutup.Core.Domain.Entities;
-using Microsoft.AspNet.OData;
+﻿using Kutup.Core.Application.Interfaces.Services;
+using Kutup.Services.Services;
+using Kutup.Core.Domain.Entities;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace Kutup.WebApi.Controllers
@@ -12,10 +14,12 @@ namespace Kutup.WebApi.Controllers
     public class FileUploadsController : ControllerBase
     {
         public static IWebHostEnvironment _webHostEnvironment;
+        private readonly IBookMapService _bookMapService;
 
-        public FileUploadsController(IWebHostEnvironment webHostEnvironment)
+        public FileUploadsController(IWebHostEnvironment webHostEnvironment, IBookMapService bookMapService)
         {
             _webHostEnvironment = webHostEnvironment;
+            _bookMapService = bookMapService;
         }
 
         [HttpPost]
@@ -46,6 +50,15 @@ namespace Kutup.WebApi.Controllers
             {
                 return ex.Message;
             }    
+        }
+
+        [HttpGet]
+        public List<string> GetNodes()
+        {
+            string path = _webHostEnvironment.ContentRootPath + @"\uploads\" + "sanalpazar.xml";
+            List<string> xmlNodes;
+            xmlNodes = _bookMapService.XmlGetNodes(path);
+            return xmlNodes;
         }
     }
 }

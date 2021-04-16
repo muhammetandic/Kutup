@@ -27,6 +27,7 @@ namespace Kutup.WebApi.Extensions
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IAuthorService, AuthorService>();
             services.AddScoped<IBookService, BookService>();
+            services.AddScoped<IBookMapService, BookMapService>();
         }
 
         public static void ConfigureSwagger(this IServiceCollection services)

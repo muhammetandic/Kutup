@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Urunler>
+    <Urun>
+      <UrunKartiID>572</UrunKartiID>
+      <UrunAdi>CAMBRIDGE POLO SIRT CANTASI UNICORN PLCAN1767</UrunAdi>
+      <Kategori>Casual Sırt Çantaları</Kategori>
+      <KategoriTree>SIRT ÇANTALARI/Casual Sırt Çantaları</KategoriTree>
+      <UrunUrl>https://www.ebavul.com/cambridge-polo-sirt-cantasi-unicorn-plcan1767-572</UrunUrl>
+      <Resimler>
+        <Resim>https://www.ebavul.com/Uploads/UrunResimleri/buyuk/cambridge-polo-sirt-cantasi-unicorn-plca-71a0.jpg</Resim>
+        <Resim>https://www.ebavul.com/Uploads/UrunResimleri/buyuk/cambridge-polo-sirt-cantasi-unicorn-plca-83da.jpg</Resim>
+
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>1500</VaryasyonID>
+          <StokKodu>PLCAN1767</StokKodu>
+          <Barkod>8681413635892</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>168,00</AlisFiyati>
+          <SatisFiyati>168,00</SatisFiyati>
+          <IndirimliFiyat>139,90</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>8</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik />
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>573</UrunKartiID>
+      <UrunAdi>CAMBRIDGE POLO SIRT CANTASI UNICORN PLCAN1768</UrunAdi>
+
+      <Kategori>Casual Sırt Çantaları</Kategori>
+      <KategoriTree>SIRT ÇANTALARI/Casual Sırt Çantaları</KategoriTree>
+      <UrunUrl>https://www.ebavul.com/cambridge-polo-sirt-cantasi-unicorn-plcan1768-573</UrunUrl>
+      <Resimler>
+        <Resim>https://www.ebavul.com/Uploads/UrunResimleri/buyuk/cambridge-polo-sirt-cantasi-unicorn-plca-2a05.jpg</Resim>
+        <Resim>https://www.ebavul.com/Uploads/UrunResimleri/buyuk/cambridge-polo-sirt-cantasi-unicorn-plca-8cb5.jpg</Resim>
+        <Resim>https://www.ebavul.com/Uploads/UrunResimleri/buyuk/cambridge-polo-sirt-cantasi-unicorn-plca-8915.jpg</Resim>
+        <Resim>https://www.ebavul.com/Uploads/UrunResimleri/buyuk/cambridge-polo-sirt-cantasi-unicorn-plca-668e.jpg</Resim>
+        <Resim>https://www.ebavul.com/Uploads/UrunResimleri/buyuk/cambridge-polo-sirt-cantasi-unicorn-plca-713a.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>1501</VaryasyonID>
+          <StokKodu>PLCAN1768</StokKodu>
+          <Barkod>8681413635908</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>168,00</AlisFiyati>
+          <SatisFiyati>168,00</SatisFiyati>
+          <IndirimliFiyat>139,90</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>8</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik />
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+	 </Urunler>
+  <Markalar>
+    <Marka>
+      <MarkaID>1</MarkaID>
+      <Tanim>Kaukko</Tanim>
+    </Marka>
+    <Marka>
+      <MarkaID>3</MarkaID>
+      <Tanim>Cambridge Polo Club</Tanim>
+    </Marka>
+
+  </Markalar>
+</Root>

@@ -90,6 +90,85 @@ namespace Kutup.Data.Migrations
                     b.ToTable("Categories");
                 });
 
+            modelBuilder.Entity("Kutup.Core.Domain.Entities.DataImport", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("DataImportType")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<bool>("IsSystemImport")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Nodes")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("DataImports");
+                });
+
+            modelBuilder.Entity("Kutup.Core.Domain.Entities.DataImportHistory", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("DataImportId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("ErrorLogs")
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("FailedCount")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("RowCount")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("SuccessfulCount")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Url")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("DataImportId");
+
+                    b.ToTable("DataImportHistories");
+                });
+
+            modelBuilder.Entity("Kutup.Core.Domain.Entities.DataImportMapping", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("ColumnName")
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("DataImportId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Formula")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("NodeName")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("DataImportId");
+
+                    b.ToTable("DataImportMappings");
+                });
+
             modelBuilder.Entity("Kutup.Core.Domain.Entities.Book", b =>
                 {
                     b.HasOne("Kutup.Core.Domain.Entities.Author", "Author")
@@ -109,6 +188,28 @@ namespace Kutup.Data.Migrations
                     b.Navigation("Category");
                 });
 
+            modelBuilder.Entity("Kutup.Core.Domain.Entities.DataImportHistory", b =>
+                {
+                    b.HasOne("Kutup.Core.Domain.Entities.DataImport", "DataImport")
+                        .WithMany("DataImportHistories")
+                        .HasForeignKey("DataImportId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("DataImport");
+                });
+
+            modelBuilder.Entity("Kutup.Core.Domain.Entities.DataImportMapping", b =>
+                {
+                    b.HasOne("Kutup.Core.Domain.Entities.DataImport", "DataImport")
+                        .WithMany("DataImportMappings")
+                        .HasForeignKey("DataImportId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("DataImport");
+                });
+
             modelBuilder.Entity("Kutup.Core.Domain.Entities.Author", b =>
                 {
                     b.Navigation("Books");
@@ -117,6 +218,13 @@ namespace Kutup.Data.Migrations
             modelBuilder.Entity("Kutup.Core.Domain.Entities.Category", b =>
                 {
                     b.Navigation("Books");
+                });
+
+            modelBuilder.Entity("Kutup.Core.Domain.Entities.DataImport", b =>
+                {
+                    b.Navigation("DataImportHistories");
+
+                    b.Navigation("DataImportMappings");
                 });
 #pragma warning restore 612, 618
         }
