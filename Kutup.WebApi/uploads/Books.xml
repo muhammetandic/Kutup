@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Books [
+  <!ELEMENT Books (DATA_RECORD*)>
+  <!ELEMENT DATA_RECORD (Id?,AuthorId?,CategoryId?,CoverImage?,ISBN?,Name?,Page?,Publisher?,PublishingYear?)+>
+  <!ELEMENT Id (#PCDATA)>
+  <!ELEMENT AuthorId (#PCDATA)>
+  <!ELEMENT CategoryId (#PCDATA)>
+  <!ELEMENT CoverImage (#PCDATA)>
+  <!ELEMENT ISBN (#PCDATA)>
+  <!ELEMENT Name (#PCDATA)>
+  <!ELEMENT Page (#PCDATA)>
+  <!ELEMENT Publisher (#PCDATA)>
+  <!ELEMENT PublishingYear (#PCDATA)>
+]>
+<Books>
+  <DATA_RECORD>
+    <Id>1</Id>
+    <AuthorId>1</AuthorId>
+    <CategoryId>1</CategoryId>
+    <CoverImage>/opt/lib/practical_avon_loan.pot</CoverImage>
+    <ISBN>4,951,433,321,004</ISBN>
+    <Name>odit cum laudantium</Name>
+    <Page>122</Page>
+    <Publisher>nemo est odit</Publisher>
+    <PublishingYear>1,959</PublishingYear>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Id>2</Id>
+    <AuthorId>1</AuthorId>
+    <CategoryId>1</CategoryId>
+    <CoverImage>/usr/ports/democratic_jbod_ergonomic.uvvm</CoverImage>
+    <ISBN>8,031,875,346,828</ISBN>
+    <Name>fugiat illum soluta</Name>
+    <Page>2,222</Page>
+    <Publisher>non impedit ratione</Publisher>
+    <PublishingYear>2,014</PublishingYear>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Id>3</Id>
+    <AuthorId>1</AuthorId>
+    <CategoryId>1</CategoryId>
+    <CoverImage>/media/york_fish_interface.djv</CoverImage>
+    <ISBN>9,449,115,386,126</ISBN>
+    <Name>quasi distinctio laudantium</Name>
+    <Page>88</Page>
+    <Publisher>iure nisi nihil</Publisher>
+    <PublishingYear>1,948</PublishingYear>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Id>4</Id>
+    <AuthorId>1</AuthorId>
+    <CategoryId>1</CategoryId>
+    <CoverImage>/var/mail/panel_metal.etx</CoverImage>
+    <ISBN>9,688,699,879,477</ISBN>
+    <Name>quos ratione quaerat</Name>
+    <Page>888</Page>
+    <Publisher>esse nulla nam</Publisher>
+    <PublishingYear>2,005</PublishingYear>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Id>5</Id>
+    <AuthorId>1</AuthorId>
+    <CategoryId>1</CategoryId>
+    <CoverImage>/usr/src/channels_uae_table.oth</CoverImage>
+    <ISBN>7,743,718,085,764</ISBN>
+    <Name>dolores et quo</Name>
+    <Page>235</Page>
+    <Publisher>quae excepturi ut</Publisher>
+    <PublishingYear>1,908</PublishingYear>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Id>6</Id>
+    <AuthorId>1</AuthorId>
+    <CategoryId>1</CategoryId>
+    <CoverImage>/bin/creative.msm</CoverImage>
+    <ISBN>6,182,185,455,559</ISBN>
+    <Name>inventore ipsum doloribus</Name>
+    <Page>2,053</Page>
+    <Publisher>magnam occaecati nostrum</Publisher>
+    <PublishingYear>1,952</PublishingYear>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Id>7</Id>
+    <AuthorId>1</AuthorId>
+    <CategoryId>1</CategoryId>
+    <CoverImage>/Library/override_reduced.kml</CoverImage>
+    <ISBN>8,750,262,819,700</ISBN>
+    <Name>ea est sit</Name>
+    <Page>1,244</Page>
+    <Publisher>dolore dolorem quam</Publisher>
+    <PublishingYear>1,833</PublishingYear>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Id>8</Id>
+    <AuthorId>1</AuthorId>
+    <CategoryId>1</CategoryId>
+    <CoverImage>/etc/defaults/investor_wooden_account.fsc</CoverImage>
+    <ISBN>2,963,076,833,676</ISBN>
+    <Name>et perferendis iusto</Name>
+    <Page>856</Page>
+    <Publisher>voluptate enim consequuntur</Publisher>
+    <PublishingYear>1,877</PublishingYear>
+  </DATA_RECORD>
+</Books>

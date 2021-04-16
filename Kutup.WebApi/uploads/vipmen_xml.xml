@@ -1,0 +1,794 @@
+﻿<?xml version="1.0"?>
+<Products><Product>
+<Product_code><![CDATA[301 101]]></Product_code>
+<Product_id><![CDATA[fccfe056-8b74-45f9-8edb-d805b1e43856]]></Product_id>
+<Name><![CDATA[VIP MEN ÖRGÜ]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>275.00</psf_fiyati>
+<satis_fiyati>250.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>1.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL BORDO HAKİKİ DERİ EVA FOYLON ÖRGÜ 40</Description>
+<variants>
+<variant>
+<spec name="Renk">BORDO</spec>
+<spec name="Beden">40</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 101]]></productCode>
+<barcode><![CDATA[301101070840]]></barcode>
+<quantity><![CDATA[1.00]]></quantity>
+<price><![CDATA[250.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 102]]></Product_code>
+<Product_id><![CDATA[fa1db4f9-f3cc-481a-bfb9-212403925ace]]></Product_id>
+<Name><![CDATA[VIP MEN ÖRGÜ TOKALI]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>275.00</psf_fiyati>
+<satis_fiyati>250.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>2.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL KAHVE HAKİKİ DERİ EVA FOYLON ÖRGÜ 44</Description>
+<variants>
+<variant>
+<spec name="Renk">KAHVE</spec>
+<spec name="Beden">44</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 102]]></productCode>
+<barcode><![CDATA[301102020844]]></barcode>
+<quantity><![CDATA[2.00]]></quantity>
+<price><![CDATA[250.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 103]]></Product_code>
+<Product_id><![CDATA[fe3457fb-c87a-4ece-9aad-3260e23dcb3b]]></Product_id>
+<Name><![CDATA[VIP MEN ÖRGÜ BAGCIKLI]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>275.00</psf_fiyati>
+<satis_fiyati>250.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>5.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL SİYAH HAKİKİ DERİ EVA FOYLON ÖRGÜ 42</Description>
+<variants>
+<variant>
+<spec name="Renk">SİYAH</spec>
+<spec name="Beden">42</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 103]]></productCode>
+<barcode><![CDATA[301103010842]]></barcode>
+<quantity><![CDATA[5.00]]></quantity>
+<price><![CDATA[250.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 104]]></Product_code>
+<Product_id><![CDATA[f425aae9-362e-4b21-aa1d-485ee16856a1]]></Product_id>
+<Name><![CDATA[VIP MEN ÖRGÜ SADE]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>275.00</psf_fiyati>
+<satis_fiyati>250.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>3.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL TABA HAKİKİ DERİ EVA FOYLON ÖRGÜ 43</Description>
+<variants>
+<variant>
+<spec name="Renk">TABA</spec>
+<spec name="Beden">43</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 104]]></productCode>
+<barcode><![CDATA[301104040843]]></barcode>
+<quantity><![CDATA[3.00]]></quantity>
+<price><![CDATA[250.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 105]]></Product_code>
+<Product_id><![CDATA[f6df0441-b9aa-48c5-935c-1665c0e97470]]></Product_id>
+<Name><![CDATA[VIP MEN TPU ÖRGÜ]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>264.00</psf_fiyati>
+<satis_fiyati>240.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>10.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL TABA HAKİKİ DERİ TPU ÖRGÜ 43</Description>
+<variants>
+<variant>
+<spec name="Renk">TABA</spec>
+<spec name="Beden">43</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 105]]></productCode>
+<barcode><![CDATA[301105040643]]></barcode>
+<quantity><![CDATA[10.00]]></quantity>
+<price><![CDATA[240.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 106]]></Product_code>
+<Product_id><![CDATA[ff8cdcc1-45a3-4b56-bcb3-4d21310c0119]]></Product_id>
+<Name><![CDATA[VIP MEN ÖRGÜ PONPONLU]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>275.00</psf_fiyati>
+<satis_fiyati>250.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>8.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL MAVİ HAKİKİ DERİ NEOLİT ÖRGÜ 42</Description>
+<variants>
+<variant>
+<spec name="Renk">MAVİ</spec>
+<spec name="Beden">42</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 106]]></productCode>
+<barcode><![CDATA[301106080142]]></barcode>
+<quantity><![CDATA[8.00]]></quantity>
+<price><![CDATA[250.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 107]]></Product_code>
+<Product_id><![CDATA[f72f016c-2d6b-44d7-9bd2-21dd4d027c6e]]></Product_id>
+<Name><![CDATA[VIP MEN CİLT PONPONLU]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>275.00</psf_fiyati>
+<satis_fiyati>250.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>1.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL TABA HAKİKİ DERİ NEOLİT ÖRGÜ 42</Description>
+<variants>
+<variant>
+<spec name="Renk">TABA</spec>
+<spec name="Beden">42</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 107]]></productCode>
+<barcode><![CDATA[301107040142]]></barcode>
+<quantity><![CDATA[1.00]]></quantity>
+<price><![CDATA[250.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 108]]></Product_code>
+<Product_id><![CDATA[f2fa6bd4-625f-4851-a233-d64e90e0b1e6]]></Product_id>
+<Name><![CDATA[VIP MEN ÖRGÜ BAĞCIKLI]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>275.00</psf_fiyati>
+<satis_fiyati>250.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>2.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL KAHVE NEOLİT ÖRGÜ 42</Description>
+<variants>
+<variant>
+<spec name="Renk">KAHVE</spec>
+<spec name="Beden">42</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 108]]></productCode>
+<barcode><![CDATA[301108020142]]></barcode>
+<quantity><![CDATA[2.00]]></quantity>
+<price><![CDATA[250.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 109]]></Product_code>
+<Product_id><![CDATA[f8470f14-205f-4c94-8aa8-81edf10006c2]]></Product_id>
+<Name><![CDATA[VIP MEN LOFER ÖRGÜ]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>275.00</psf_fiyati>
+<satis_fiyati>250.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>6.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL SİYAH HAKİKİ DERİ NEOLİT ÖRGÜ 43</Description>
+<variants>
+<variant>
+<spec name="Renk">SİYAH</spec>
+<spec name="Beden">43</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 109]]></productCode>
+<barcode><![CDATA[301109010143]]></barcode>
+<quantity><![CDATA[6.00]]></quantity>
+<price><![CDATA[250.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 110]]></Product_code>
+<Product_id><![CDATA[de03ae75-b200-406f-824b-5fabb094567a]]></Product_id>
+<Name><![CDATA[VIP MEN LOFER ÖRGÜ]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>275.00</psf_fiyati>
+<satis_fiyati>250.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>3.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL MAVİ HAKİKİ DERİ NEOLİT ÖRGÜ 39</Description>
+<variants>
+<variant>
+<spec name="Renk">MAVİ</spec>
+<spec name="Beden">39</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 110]]></productCode>
+<barcode><![CDATA[301110080139]]></barcode>
+<quantity><![CDATA[3.00]]></quantity>
+<price><![CDATA[250.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 200]]></Product_code>
+<Product_id><![CDATA[c9784af9-90dd-46ea-85e9-1a3b6b805747]]></Product_id>
+<Name><![CDATA[VIP MEN BOOTS]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[BOOTS]]></category>
+<category_id><![CDATA[fd7ae6f4-76f8-4b34-8879-11d1368a9d15]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>418.00</psf_fiyati>
+<satis_fiyati>380.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>3.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/BOOTS SİYAH TERMAL BEZ EVA FOYLON ANTİK 44</Description>
+<variants>
+<variant>
+<spec name="Renk">SİYAH</spec>
+<spec name="Beden">44</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 200]]></productCode>
+<barcode><![CDATA[301200010844]]></barcode>
+<quantity><![CDATA[3.00]]></quantity>
+<price><![CDATA[380.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 201]]></Product_code>
+<Product_id><![CDATA[f4426ad9-a1e4-49c6-a483-cb2fb2c58c52]]></Product_id>
+<Name><![CDATA[VIP MEN BOOTS CHELSEA]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[BOOTS]]></category>
+<category_id><![CDATA[fd7ae6f4-76f8-4b34-8879-11d1368a9d15]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>396.00</psf_fiyati>
+<satis_fiyati>360.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>9.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/BOOTS SİYAH TERMAL BEZ KAVUCUK SÜET 43</Description>
+<variants>
+<variant>
+<spec name="Renk">SİYAH</spec>
+<spec name="Beden">43</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 201]]></productCode>
+<barcode><![CDATA[301201010343]]></barcode>
+<quantity><![CDATA[9.00]]></quantity>
+<price><![CDATA[360.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 202]]></Product_code>
+<Product_id><![CDATA[e7a67873-6eab-4498-a6c8-4b7b712073bf]]></Product_id>
+<Name><![CDATA[VIP MEN  MASKARTALI]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[BOOTS]]></category>
+<category_id><![CDATA[fd7ae6f4-76f8-4b34-8879-11d1368a9d15]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>396.00</psf_fiyati>
+<satis_fiyati>360.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>4.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/BOOTS KAHVE TERMAL BEZ KAVUCUK ANTİK 43</Description>
+<variants>
+<variant>
+<spec name="Renk">KAHVE</spec>
+<spec name="Beden">43</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 202]]></productCode>
+<barcode><![CDATA[301202020343]]></barcode>
+<quantity><![CDATA[4.00]]></quantity>
+<price><![CDATA[360.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 203]]></Product_code>
+<Product_id><![CDATA[fbafffaa-f9b5-4eed-a373-e17ff0b29bca]]></Product_id>
+<Name><![CDATA[VIP MEN  MASKARTALI]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[BOOTS]]></category>
+<category_id><![CDATA[fd7ae6f4-76f8-4b34-8879-11d1368a9d15]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>396.00</psf_fiyati>
+<satis_fiyati>360.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>4.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/BOOTS SİYAH TERMAL BEZ KAVUCUK ÖRGÜ 42</Description>
+<variants>
+<variant>
+<spec name="Renk">SİYAH</spec>
+<spec name="Beden">42</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 203]]></productCode>
+<barcode><![CDATA[301203010342]]></barcode>
+<quantity><![CDATA[4.00]]></quantity>
+<price><![CDATA[360.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 204]]></Product_code>
+<Product_id><![CDATA[eae8c4e9-7902-4033-848e-b631284895a1]]></Product_id>
+<Name><![CDATA[VIP MEN  M MODEL]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[BOOTS]]></category>
+<category_id><![CDATA[fd7ae6f4-76f8-4b34-8879-11d1368a9d15]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>396.00</psf_fiyati>
+<satis_fiyati>360.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>4.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/BOOTS SİYAH TERMAL BEZ KAVUCUK ÖRGÜ 44</Description>
+<variants>
+<variant>
+<spec name="Renk">SİYAH</spec>
+<spec name="Beden">44</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 204]]></productCode>
+<barcode><![CDATA[301204010344]]></barcode>
+<quantity><![CDATA[4.00]]></quantity>
+<price><![CDATA[360.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 205]]></Product_code>
+<Product_id><![CDATA[f61a45d7-2f5a-47a9-b989-418e2d8f305a]]></Product_id>
+<Name><![CDATA[VIP MEN  M ÖRGÜ]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[BOOTS]]></category>
+<category_id><![CDATA[fd7ae6f4-76f8-4b34-8879-11d1368a9d15]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>440.00</psf_fiyati>
+<satis_fiyati>400.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>6.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/BOOTS KAHVE TERMAL BEZ KAVUCUK ÖRGÜ 43</Description>
+<variants>
+<variant>
+<spec name="Renk">KAHVE</spec>
+<spec name="Beden">43</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 205]]></productCode>
+<barcode><![CDATA[301205020343]]></barcode>
+<quantity><![CDATA[6.00]]></quantity>
+<price><![CDATA[400.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[301 206]]></Product_code>
+<Product_id><![CDATA[e024b0cf-15fd-4c9c-af04-7b5438075a4e]]></Product_id>
+<Name><![CDATA[VIP MEN  M  BAĞLI]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[BOOTS]]></category>
+<category_id><![CDATA[fd7ae6f4-76f8-4b34-8879-11d1368a9d15]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>396.00</psf_fiyati>
+<satis_fiyati>360.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>2.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/BOOTS KAHVE TERMAL BEZ KAVUCUK ANTİK 44</Description>
+<variants>
+<variant>
+<spec name="Renk">KAHVE</spec>
+<spec name="Beden">44</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[301 206]]></productCode>
+<barcode><![CDATA[301206020344]]></barcode>
+<quantity><![CDATA[2.00]]></quantity>
+<price><![CDATA[360.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[302 200]]></Product_code>
+<Product_id><![CDATA[f77689ef-88c1-443b-aca1-8fde9d495b0f]]></Product_id>
+<Name><![CDATA[VIP MEN STREÇ]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>264.00</psf_fiyati>
+<satis_fiyati>240.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>2.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL YEŞİL HAKİKİ DERİ EVA FOYLON ANTİK 40</Description>
+<variants>
+<variant>
+<spec name="Renk">YEŞİL</spec>
+<spec name="Beden">40</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[302 200]]></productCode>
+<barcode><![CDATA[302200170840]]></barcode>
+<quantity><![CDATA[2.00]]></quantity>
+<price><![CDATA[240.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[302 201]]></Product_code>
+<Product_id><![CDATA[f0bad643-cc08-4126-a010-cb86d1bdd48f]]></Product_id>
+<Name><![CDATA[VIP MEN 3 LST BAĞSIZ]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>264.00</psf_fiyati>
+<satis_fiyati>240.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>11.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL SİYAH HAKİKİ DERİ EVA FOYLON ANTİK 43</Description>
+<variants>
+<variant>
+<spec name="Renk">SİYAH</spec>
+<spec name="Beden">43</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[302 201]]></productCode>
+<barcode><![CDATA[302201010843]]></barcode>
+<quantity><![CDATA[11.00]]></quantity>
+<price><![CDATA[240.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[303 300]]></Product_code>
+<Product_id><![CDATA[f6c8ca5b-ec85-4564-b401-e72dd71bc1af]]></Product_id>
+<Name><![CDATA[VIP MEN STREÇ]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>264.00</psf_fiyati>
+<satis_fiyati>240.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>2.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL LACİVERT HAKİKİ DERİ EVA FOYLON ANTİK 42</Description>
+<variants>
+<variant>
+<spec name="Renk">LACİVERT</spec>
+<spec name="Beden">42</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[303 300]]></productCode>
+<barcode><![CDATA[303300030842]]></barcode>
+<quantity><![CDATA[2.00]]></quantity>
+<price><![CDATA[240.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[500 7001]]></Product_code>
+<Product_id><![CDATA[b1566fc8-6857-4746-917c-d97a7645af3d]]></Product_id>
+<Name><![CDATA[VIP MEN ]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CASUAL]]></category>
+<category_id><![CDATA[86519e15-6ccf-4f44-bddf-2c25d0563502]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>242.00</psf_fiyati>
+<satis_fiyati>220.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>0.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CASUAL SİYAH HAKİKİ DERİ NEOLİT ÖRGÜ 41</Description>
+<variants>
+<variant>
+<spec name="Renk">SİYAH</spec>
+<spec name="Beden">41</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[500 7001]]></productCode>
+<barcode><![CDATA[5007001010141]]></barcode>
+<quantity><![CDATA[0.00]]></quantity>
+<price><![CDATA[220.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product><Product>
+<Product_code><![CDATA[DENEME]]></Product_code>
+<Product_id><![CDATA[d1535182-fcf6-4894-b087-9448664593ad]]></Product_id>
+<Name><![CDATA[DENEME]]></Name>
+<mainCategory><![CDATA[Erkek Ayakkabı]]></mainCategory>
+<mainCategory_id><![CDATA[3bc69e7a-fa3c-4741-9890-e126d78eb066]]></mainCategory_id>
+<category><![CDATA[CLASSİC ]]></category>
+<category_id><![CDATA[5d37141a-4f8f-4746-9edb-2b4bd616be7d]]></category_id>
+<subCategory><![CDATA[]]></subCategory>
+<subCategory_id><![CDATA[]]></subCategory_id>
+<barcode></barcode>
+<psf_fiyati>132.00</psf_fiyati>
+<satis_fiyati>120.00</satis_fiyati>
+<CurrencyType>TRL</CurrencyType>
+<Tax>8</Tax>
+<Stock>93.00</Stock>
+<Brand>VIPMEN CLASS</Brand>
+<Image1></Image1>
+<Image2></Image2>
+<Image3></Image3>
+<Image4></Image4>
+<Image5></Image5>
+<Description>Erkek Ayakkabı/CLASSİC  SİYAH HAKİKİ DERİ NEOLİT ÖRGÜ 38</Description>
+<variants>
+<variant>
+<spec name="Renk">SİYAH</spec>
+<spec name="Beden">38</spec>
+<variantId>1</variantId>
+<productCode><![CDATA[DENEME]]></productCode>
+<barcode><![CDATA[DENEME010138]]></barcode>
+<quantity><![CDATA[93.00]]></quantity>
+<price><![CDATA[120.00]]></price>
+<hbSaticiStokKodu><![CDATA[]]></hbSaticiStokKodu>
+<hbKodu><![CDATA[]]></hbKodu>
+</variant>
+</variants>
+</Product></Products>
