@@ -43,6 +43,9 @@ namespace Kutup.WebApi
             services.AddPersistenceInfrastructure(Configuration);
             services.ConfigureSwagger();
             services.AddOData();
+            services.AddCors(options =>
+                options.AddDefaultPolicy(builder =>
+                    builder.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin()));
 
             services.AddMvcCore(options =>
             {
@@ -83,6 +86,7 @@ namespace Kutup.WebApi
 
             app.UseRouting();
 
+            app.UseCors();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

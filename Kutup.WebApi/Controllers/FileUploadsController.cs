@@ -55,11 +55,9 @@ namespace Kutup.WebApi.Controllers
         [HttpGet]
         public List<string> GetNodes()
         {
-<<<<<<< HEAD
+
             string path = _webHostEnvironment.ContentRootPath + @"\uploads\" + "sanalpazar.xml";
-=======
-            string path = _webHostEnvironment.ContentRootPath + @"\uploads\" + "vipmen_xml.xml";
->>>>>>> 145dadcf05777547070bf4eacba7bbfdcf0a004d
+
             List<string> xmlNodes;
             xmlNodes = _bookMapService.XmlGetNodes(path);
             return xmlNodes;
