@@ -2,14 +2,8 @@
 using Kutup.Core.Application.Interfaces.Services;
 using Kutup.Core.Domain.Entities;
 using System.Collections.Generic;
-<<<<<<< HEAD
 using System.Xml;
-=======
-using System.Threading.Tasks;
-using System.Xml;
-using System.Xml.Linq;
-using System.Xml.XPath;
->>>>>>> 145dadcf05777547070bf4eacba7bbfdcf0a004d
+
 
 namespace Kutup.Services.Services
 {
@@ -26,15 +20,8 @@ namespace Kutup.Services.Services
         {
             XmlDocument doc = new XmlDocument();
             doc.Load(filePath);
-<<<<<<< HEAD
-            //string rootNode = doc.DocumentElement.FirstChild.Name;
-=======
+
             string rootNode = doc.DocumentElement.Name.ToString();
->>>>>>> 145dadcf05777547070bf4eacba7bbfdcf0a004d
-
-            //return XmlGetNodeNames(doc, rootNode);
-            //List<string> nodes = new List<string>();
-
             XmlNode node = doc.DocumentElement.FirstChild;
             return XmlGetNodesName(node, "");
         }
@@ -64,7 +51,7 @@ namespace Kutup.Services.Services
 
         public List<string> XmlGetNodesName(XmlNode node, string nodePath)
         {
-<<<<<<< HEAD
+
             var fetchedNodeList = new List<string>();
             while (node != null)
             {
@@ -83,9 +70,7 @@ namespace Kutup.Services.Services
                 }
                 node = node.NextSibling;
             }
-            //fetchedNodeList = fetchedNodeList.Distinct().ToList();
-=======
-            List<string> fetchedNodeList = new List<string>();
+
             XmlNode lastChild = node.LastChild;
 
             while (node != lastChild && node != null)
@@ -107,8 +92,7 @@ namespace Kutup.Services.Services
                     node = node.NextSibling;
                 }
             }
-            //fetchedNodeList.Add(lastChild.Name);
->>>>>>> 145dadcf05777547070bf4eacba7bbfdcf0a004d
+
             return fetchedNodeList;
         }
     }
