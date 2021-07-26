@@ -6,7 +6,8 @@ using Kutup.Services.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
-using System;
+using System.IO;
+using System.Reflection;
 
 namespace Kutup.WebApi.Extensions
 {
@@ -18,7 +19,7 @@ namespace Kutup.WebApi.Extensions
                 //opt => opt.UseSqlServer(connectionString)
                 //.EnableSensitiveDataLogging()
                 //.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking));
-                opt => opt.UseSqlite(@$"Data Source={Environment.CurrentDirectory}\Sample.db"));
+                opt => opt.UseSqlite(connectionString: @$"Data Source={Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)}\Sample.db"));
         }
 
         public static void ConfigureKutupServices(this IServiceCollection services)
