@@ -19,7 +19,7 @@ namespace Kutup.WebApi.Extensions
                 //opt => opt.UseSqlServer(connectionString)
                 //.EnableSensitiveDataLogging()
                 //.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking));
-                opt => opt.UseSqlite(connectionString: @$"Data Source={Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)}\Sample.db"));
+                opt => opt.UseSqlite(@$"Data Source=Kutup.db"));
         }
 
         public static void ConfigureKutupServices(this IServiceCollection services)

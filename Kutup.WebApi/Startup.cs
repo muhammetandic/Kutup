@@ -91,6 +91,11 @@ namespace Kutup.WebApi
                 endpoints.Select().Expand().Count().Filter().OrderBy().MaxTop(100).SkipToken();
                 endpoints.MapControllers();
             });
+
+            app.UseCors(builder => builder
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .AllowAnyOrigin());
         }
 
         public static IEdmModel GetEdmModel()
