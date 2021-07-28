@@ -38,7 +38,7 @@ namespace Kutup.WebApi
                     s.RunDefaultMvcValidationAfterFluentValidationExecutes = false;
                 });
 
-            services.ConfigureEntityFramework(Configuration.GetConnectionString("KutupConnectionString"));
+            services.ConfigureEntityFramework(Configuration.GetConnectionString("KutupSqliteString"));
             services.ConfigureKutupServices();
             services.AddPersistenceInfrastructure(Configuration);
             services.ConfigureSwagger();

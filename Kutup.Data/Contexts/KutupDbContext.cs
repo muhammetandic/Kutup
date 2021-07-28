@@ -11,12 +11,12 @@ namespace Kutup.Data.Contexts
         public KutupDbContext(DbContextOptions<KutupDbContext> options) : base(options)
         {
             ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
-            //if (!_created)
-            //{
-            //    _created = true;
-            //    Database.EnsureDeleted();
-            //    Database.EnsureCreated();
-            //}
+            if (!_created)
+            {
+                _created = true;
+                Database.EnsureDeleted();
+                Database.EnsureCreated();
+            }
         }
 
 
